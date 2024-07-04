@@ -143,6 +143,20 @@ body {
     font-weight: bold;
 }
 
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #1F2937;
+    padding: 16px;
+    margin-top: 16px;
+}
+
+.footer-label {
+    font-size: 18px;
+    color: #e5e7eb;
+}
+
 ul {
     list-style: none;
     padding: 0;
