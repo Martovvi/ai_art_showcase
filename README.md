@@ -1,1 +1,1 @@
-# ai_art_showcase
+# Landing Page Test
